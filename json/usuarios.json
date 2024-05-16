@@ -1,0 +1,9 @@
+[
+    {"name":"Frank","img": "img/usuario1.jpeg", "dni":"98765344" , "edad":"38" ,"estadocivil":"soltero"},
+    {"name":"Rogger","img": "img/usuario2.jpg","dni":"23489065" , "edad":"17" ,"estadocivil":"casado"},
+    {"name":"Luis","img": "img/usuario3.jpg","dni":"09856745" , "edad":"82" ,"estadocivil":"casado"}, 
+    {"name":"Felipe","img": "img/usuario4.jpg","dni":"64685356" , "edad":"30" ,"estadocivil":"soltero"},
+    {"name":"Rosa","img": "img/usuario5.jpg","dni":"09646436" , "edad":"15" ,"estadocivil":"casado"},
+    {"name":"Miguel","img": "img/usuario6.jpg","dni":"23457894" , "edad":"57" ,"estadocivil":"soltero"}
+
+]
